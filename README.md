@@ -2,7 +2,7 @@
 
 🚀 I created a console app that interacts with the SWAPI - the user is instructed to build a team to help destroy the Death Star
 
-Assignment requirements:
+**Assignment requirements:**
 + Use boolean values and if..else statements to branch logic of your program a data structure like a list, dictionary, set or tuple to store values
 + Use a for loop or a while loop to reduce repetition
 + Use functions with returns to make code reusable
